@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "jeremeamia/SuperClosure" : "*"
+        "jeremeamia/superclosure" : "*"
     },
     "autoload": {
         "psr-4": {
