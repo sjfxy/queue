@@ -6,7 +6,7 @@
  * Date: 2016/11/22
  * Time: 16:54
  */
-namespace shmilyzxt\queue;
+namespace shmilyzxt\queue\worker;
 
 use common\tools\var_dumper;
 use shmilyzxt\queue\base\Job;
