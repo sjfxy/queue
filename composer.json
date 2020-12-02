@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "\\shmilyzxt\\queue\\": ""
+            "shmilyzxt\\queue\\": "src"
         }
     }
 }
