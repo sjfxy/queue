@@ -1,5 +1,5 @@
 {
-    "name": "sin/yii2-queue",
+    "name": "sjfxy/yii2-queue",
     "description": "a yii2 extension to make simple to use queue.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
